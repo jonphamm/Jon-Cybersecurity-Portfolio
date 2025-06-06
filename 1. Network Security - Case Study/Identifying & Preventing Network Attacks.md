@@ -14,7 +14,7 @@ The scope of the cybersecurity analysis and strategic plan will include the foll
 * Employee Training and Awareness
 * Ongoing Risk Management and Monitoring
 
-### Goal
+### Goals
 The primary goal of this cybersecurity analysis and strategic plan is to drastically reduce SMBI's vulnerability to cyberattacks and establish a robust framework for ongoing security. This will be achieved through the following specific goals:
 * Enhance Vulnerability Management and Risk Mitigation
 * Improve Incident Detection and Response
