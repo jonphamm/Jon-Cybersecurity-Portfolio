@@ -5,6 +5,12 @@ As an aspiring cybersecurity professional, I specialize in penetration testing, 
 * Network Security - Case Study
 * Vulnerability Scanner using Nessus
 
-## Tools
-
-## Skills
+## Tools & Software
+Some tools and security softwares I use in my projects and have worked with:
+| Tools |  |  |  |  |  |
+| :--- |:---:| :---:| :--- |:---:| :---:|
+| Avanan | BeyondTrust (Bomgar) | Cloudflare | CodeTwo | Commvault | CradlePoint NetCloud |
+| CrowdStrike | Cisco PacketTracer | FortiGate | Lumu | LastPass Vault | Kali Linux |
+| MaaS360 MDM | Metasploitable | Microsoft 365 Admin Center | Microsoft Azure |Microsoft Entra | Microsoft Intune |
+| Microsoft Windows Defenfer | Nmap | SentinelOne | Splunk | Suricata | Oracle VirtualBox |
+| pfSense | Python | VMware | Wireshark | Zenmap | Javascript |
