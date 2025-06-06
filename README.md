@@ -14,3 +14,4 @@ The following tools and security software are fundamental to my projects and for
 | MaaS360 MDM | Metasploitable | Microsoft 365 Admin Center | Microsoft Azure |Microsoft Entra | Microsoft Intune |
 | Microsoft Windows Defenfer | Nmap | SentinelOne | Splunk | Suricata | Oracle VirtualBox |
 | pfSense | Python | VMware | Wireshark | Zenmap | Javascript |
+| Linux OS | Tcpdump | MySQL |
