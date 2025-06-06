@@ -1,2 +1,8 @@
-# JonCybersecurityPortfolio
-In my projects, I simulate real-world cyberattacks, analyze security flaws, and build robust defenses to secure systems. I've worked with penetration testing tools like Metasploit, Kali Linux, and Wireshark, and have hands-on experience with network monitoring, firewall configuration, and IDS/IPS setups.
+# Jon Pham's Cybersecurity Portfolio
+As an aspiring cybersecurity professional, I specialize in penetration testing, network security, and vulnerability management, with a strong focus on practical, hands-on experience. Through a series of self-driven projects, I’ve developed a deep understanding of identifying, exploiting, and securing vulnerabilities within systems and networks. My journey includes creating and simulating cyberattacks, as well as deploying defensive measures like firewalls, IDS/IPS systems, and network monitoring tools. 
+
+## Projects
+
+## Tools
+
+## Skills
