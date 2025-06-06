@@ -1,4 +1,4 @@
-# Network Forensics and Analyzing Network Traffic
+# Network Security and Forensics
 ## Case Study
 The case study is written on the basis of a fictional company:
 
