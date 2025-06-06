@@ -6,7 +6,7 @@ As an aspiring cybersecurity professional, I specialize in penetration testing, 
 * Vulnerability Scanner using Nessus
 
 ## Tools & Software
-Some tools and security softwares I use in my projects and have worked with:
+The following tools and security software are fundamental to my projects and form part of my daily professional experience.:
 | Tools |  |  |  |  |  |
 | :--- |:---:| :---:| :--- |:---:| :---:|
 | Avanan | BeyondTrust (Bomgar) | Cloudflare | CodeTwo | Commvault | CradlePoint NetCloud |
