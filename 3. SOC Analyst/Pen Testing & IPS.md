@@ -1,7 +1,5 @@
-VMWare Workstation Pro Install: May have to create a Broadcom account to install.
-https://support.broadcom.com/group/ecx/productdetails?productName=VMware%20Workstation%20Pro
+VMWare Workstation Pro Install: Process may be a little difficult, so I've provided a video with instructions. </br> https://www.youtube.com/watch?v=agw2i6QddvE&t=26s&ab_channel=Memory
 
-Ubuntu Install (attacker):
-https://ubuntu.com/download/desktop
+Ubuntu Install (attacker): </br> https://ubuntu.com/download/desktop
 
-Windows Machine Install (victim):
+Windows Machine Install (victim): </br> 
