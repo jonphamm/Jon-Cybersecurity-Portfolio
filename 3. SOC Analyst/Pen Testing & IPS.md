@@ -3,7 +3,7 @@ VMWare Workstation Pro Install: Process may be a little difficult, so I've provi
 
 Ubuntu Live Server Install (Attacker): </br> https://ubuntu.com/download/server
 
-Windows 10 Machine Install (Victim): Ensure you download the ISO file. </br> https://www.microsoft.com/en-us/software-download/windows10
+Windows 10 Pro Machine Install (Victim): Ensure you download the ISO file. </br> https://www.microsoft.com/en-us/software-download/windows10
 
 # Walkthrough
 
@@ -23,7 +23,15 @@ Windows 10 Machine Install (Victim): Ensure you download the ISO file. </br> htt
 ![image](https://github.com/user-attachments/assets/73d7a6d1-9635-4350-8fd8-954995fe9eec)
 ![image](https://github.com/user-attachments/assets/ecce9472-4503-49c9-81b3-92277a7e12af)
 
-### B) Group Policy Editor
+### B) Local Group Policy Editor
+1. Press Windows + R to open the Run dialog.
+2. In the Local Group Policy Editor window, go to Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus
+3. In the right pane, double-click "Turn off Microsoft Defender Antivirus".
+4. In the window that appears: Select Enabled. Click Apply, then OK. </br>
+
+![image](https://github.com/user-attachments/assets/c199ede1-fca8-458e-bce8-11bb8c6501fb)
+
+
 -Disabling Power Configurations
 -Safe Boot
 -Registry Editing
