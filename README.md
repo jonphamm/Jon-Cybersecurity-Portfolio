@@ -6,6 +6,7 @@ As an aspiring cybersecurity professional, I have a strong interest in penetrati
 ## Projects
 * Network Security - Case Study
 * Vulnerability Scanner using Nessus
+* SOC Analyst - Pen Testing & IPS
 
 ## Tools & Software
 The following tools and security software are fundamental to my projects and form part of my daily professional experience.:
