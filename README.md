@@ -8,7 +8,8 @@ As an aspiring cybersecurity professional, I have a strong interest in penetrati
 ## Projects 
 * Network Security - Case Study
 * Vulnerability Scanner using Nessus
-* SOC Analyst - Pen Testing & IPS
+* SOC Analyst C2 - Pen Testing & IPS
+* T-Pot Honeypot Lab
 
 ---
 
