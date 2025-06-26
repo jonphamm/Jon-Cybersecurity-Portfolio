@@ -21,7 +21,7 @@ As an aspiring **cybersecurity professional**, I have a strong interest in penet
 ---
 
 ## 🛠 Tools & Software
-The following tools and security softwares are fundamental to my projects and are a part of my daily professional duties and responsibilities:
+The following tools and security software are fundamental to my projects and utilized in my daily professional duties and responsibilities:
 | Tools & Software |  |  |  |  |  |
 |----|----|----|----|----|----|
 | Avanan | BeyondTrust (Bomgar) | Cloudflare | CodeTwo | Commvault | CradlePoint NetCloud |
