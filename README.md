@@ -10,10 +10,10 @@ As an aspiring **cybersecurity professional**, I have a strong interest in penet
 ---
 
 ## Projects 
-1. **[Network Security - Case Study](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/blob/main/1.%20Network%20Security%20-%20Case%20Study/Identifying%20%26%20Preventing%20Network%20Attacks.md)**
-2. **[Vulnerability Scanner using Nessus](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/blob/main/2.%20Vulnerability%20Scanner%20using%20Nessus/2.1%20-%20Project%20Overview.md)**
-3. **[SOC Analyst C2 - Pen Testing & IPS](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/blob/main/3.%20SOC%20Analyst%20C2%20Project/%203.1%20-%20Project%20Overview.md)**
-4. **[T-Pot Honeypot Lab](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/blob/main/4.%20Honeypot%20Project/4.1%3A%20Project%20Overview.md)**
+1. **[Network Security - Case Study](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/tree/main/1.%20Network%20Security%20-%20Case%20Study)**
+2. **[Vulnerability Scanner using Nessus](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/tree/main/2.%20Vulnerability%20Scanner%20using%20Nessus)**
+3. **[SOC Analyst C2 - Pen Testing & IPS](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/tree/main/3.%20SOC%20Analyst%20C2%20Project)**
+4. **[T-Pot Honeypot Lab](https://github.com/jonphamm/Jon-Cybersecurity-Portfolio/tree/main/4.%20Honeypot%20Project)**
 
 ## Microsoft Azure Cloud Migration Policies
 * Windows Ring Updates
